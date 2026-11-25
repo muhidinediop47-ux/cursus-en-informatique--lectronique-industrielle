@@ -1,2 +1,15 @@
-# cursus-en-informatique--lectronique-industrielle
+# cursus-en-informatique-electronique-industrielle
 suivi de mon cursus matières et travaux pratique
+# Cursus — Cheikh Mouhidine Diop
+
+Étudiant en **L1 Informatique & Électronique Industrielle** à l'IPG-ISTI (Keur Massar).  
+Objectif : renforcer mes bases en informatique, électronique et algorithmique, puis évoluer en ingénierie informatique.
+
+## L1 — Informatique & Électronique Industrielle
+- **Matières étudiées :** algorithmique, programmation (C, Python), mathématiques, électronique industrielle.
+- **Travaux pratiques & projets :** à ajouter au fur et à mesure dans les dossiers de ce dépôt.
+
+## Objectifs & perspectives
+- Valider solidement la L1 et accumuler des réalisations concrètes.
+- Poursuivre en ingénierie informatique et systèmes industriels / embarqués.
+-
